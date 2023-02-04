@@ -5,7 +5,7 @@
 
 - 🌍  I'm based in VietNam
 - ✉️  You can contact me at [kiettuanleo@gmail.com](mailto:kiettuanleo@gmail.com)
-- 🧠  I'm learning Hutech university
+- 🧠  I'm learning SE in Hutech university
 
 ### Skills
 
