@@ -134,7 +134,7 @@
       <h3 align="center">Disease Surveillance and Warning System (DSWS)</h3>
       <div align="center">
         <a href="https://github.com/tankietse/dsws-backend" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tankietse&repo=dsws&theme=tokyonight&hide_border=true" width="100%" alt="Project 1"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tankietse&repo=dsws-backend&theme=tokyonight&hide_border=true" width="100%" alt="Project 1"/>
         </a>
         <p><strong>Java, Spring Boot, JPA, MySQL</strong></p>
         <p>A system for monitoring and alerting about disease outbreaks with:</p>
